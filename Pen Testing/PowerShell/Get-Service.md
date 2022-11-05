@@ -1,4 +1,0 @@
-
-```PowerShell
-Get-Service WinDefend
-```

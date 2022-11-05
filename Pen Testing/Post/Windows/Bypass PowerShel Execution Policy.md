@@ -1,4 +1,0 @@
-
-```Script
-powershell -executionpolicy bypass
-```
