@@ -1,0 +1,5 @@
+
+```Script
+ssh -L 1234:127.0.0.1:1234 TARGET_IP
+```
+LPORT:127.0.0.1:RPORT

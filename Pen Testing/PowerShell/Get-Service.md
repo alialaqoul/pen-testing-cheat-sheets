@@ -1,0 +1,4 @@
+
+```PowerShell
+Get-Service WinDefend
+```

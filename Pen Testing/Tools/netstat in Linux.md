@@ -1,0 +1,3 @@
+```Shell
+sudo netstat -atupn
+```

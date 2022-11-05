@@ -1,0 +1,3 @@
+```PowerShell
+Get-EventLog -List
+```
